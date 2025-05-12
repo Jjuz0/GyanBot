@@ -1,1 +1,1 @@
-token = 'MTM3MTUyMDA3MDExNDc0MjI3Mg.GqVEA-.WLeseZ-Xi7-iXIRfng66IL3mk1LarZ607vq9_Q' #Write Token Bot
+token = ""
